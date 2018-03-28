@@ -13,5 +13,76 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="查找">
+      <UniqueIdentifier>{358afc6e-f202-4b35-9e40-24f67cfbbc95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="二叉树">
+      <UniqueIdentifier>{b01a7e06-ce5e-4381-aaa9-c45310b6b935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="剑指Offer">
+      <UniqueIdentifier>{700cc0f9-074d-4413-89a8-f6a14c86cb4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="链表">
+      <UniqueIdentifier>{39d42f7d-af4e-4ea0-88ed-0c4b01272e73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="排序">
+      <UniqueIdentifier>{1a1bd929-610e-4236-ae7f-9fb7162a5cd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="堆栈">
+      <UniqueIdentifier>{856c93b0-ab9b-45a7-b3af-3ff04bf5f8f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="面试题">
+      <UniqueIdentifier>{6168e5c4-4d73-4cea-846b-2644b3cbaf8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="字符串">
+      <UniqueIdentifier>{93101422-3fdc-46ed-8c19-fc89e91dbb33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法">
+      <UniqueIdentifier>{7229f256-3c59-404d-aa31-7d596bb604dc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\二叉树\二叉树遍历，按层.cpp">
+      <Filter>二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="..\二叉树\平衡二叉树判断.cpp">
+      <Filter>二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="..\二叉树\二叉树遍历(递归).cpp">
+      <Filter>二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="..\二叉树\二叉树遍历(非递归).cpp">
+      <Filter>二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="..\字符串\替换字符串.cpp">
+      <Filter>字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\面试题\查找第二大树.cpp">
+      <Filter>面试题</Filter>
+    </ClCompile>
+    <ClCompile Include="..\面试题\输出字符串中重复的字符个数.cpp">
+      <Filter>面试题</Filter>
+    </ClCompile>
+    <ClCompile Include="从尾到头打印链表.cpp">
+      <Filter>链表</Filter>
+    </ClCompile>
+    <ClCompile Include="用两个栈实现一个队列.cpp">
+      <Filter>堆栈</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列.cpp">
+      <Filter>算法</Filter>
+    </ClCompile>
+    <ClCompile Include="跳台阶.cpp">
+      <Filter>算法</Filter>
+    </ClCompile>
+    <ClCompile Include="链表倒数第k个节点.cpp">
+      <Filter>链表</Filter>
+    </ClCompile>
+    <ClCompile Include="反转链表.cpp">
+      <Filter>链表</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
