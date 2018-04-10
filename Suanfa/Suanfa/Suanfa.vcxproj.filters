@@ -84,5 +84,8 @@
     <ClCompile Include="反转链表.cpp">
       <Filter>链表</Filter>
     </ClCompile>
+    <ClCompile Include="other.cpp">
+      <Filter>查找</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

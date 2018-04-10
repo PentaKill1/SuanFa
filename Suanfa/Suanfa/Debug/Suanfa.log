@@ -1,2 +1,19 @@
-﻿  源.cpp
-  Suanfa.vcxproj -> C:\Users\LOL\source\repos\Suanfa\Debug\Suanfa.exe
+﻿  二叉树遍历(递归).cpp
+  二叉树遍历(非递归).cpp
+  二叉树遍历，按层.cpp
+  平衡二叉树判断.cpp
+  替换字符串.cpp
+  查找第二大树.cpp
+  输出字符串中重复的字符个数.cpp
+  other.cpp
+f:\aaa\suanfa\suanfa\suanfa\other.cpp(6): warning C4552: “>>”: 运算符不起任何作用；应输入带副作用的运算符
+  从尾到头打印链表.cpp
+  反转链表.cpp
+  斐波那契数列.cpp
+  源.cpp
+  用两个栈实现一个队列.cpp
+  跳台阶.cpp
+  链表倒数第k个节点.cpp
+  正在生成代码...
+源.obj : error LNK2005: _main 已经在 other.obj 中定义
+F:\aaa\SuanFa\Suanfa\Debug\Suanfa.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
